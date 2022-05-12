@@ -3,8 +3,8 @@ import { NextPage } from "next";
 const firstPost:NextPage = () => {
   return (
     <div>
-      <h1>最初の投稿</h1>
-      <h2>ホームへ戻る</h2>
+      <h1>First Post</h1>
+      <h2>Back to Home</h2>
     </div>
   );
 };
